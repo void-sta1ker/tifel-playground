@@ -43,6 +43,10 @@ export default defineComponent({
       // return ...
     }
 
+    document.body.firstElementChild.style.display = 'block'
+    document.body.style.flexDirection = 'column'
+    document.body.style.gap = '4rem'
+
     return {
       code,
       output,
