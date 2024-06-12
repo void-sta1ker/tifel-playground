@@ -18,7 +18,7 @@
     "codemirror": "^6.0.1",
     "pinia": "^2.1.7",
     "prismjs": "^1.29.0",
-    "tifel": "^1.0.1",
+    "tifel": "^1.0.2",
     "vue": "^3.4.21",
     "vue-codemirror": "^6.1.1",
     "vue-prism-component": "^2.0.0",
